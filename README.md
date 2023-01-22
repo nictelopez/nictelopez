@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nictelopez&label=Profile%20views&color=ff9300&style=flat" alt="nictelopez" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nictelopez_" target="blank"><img src="https://img.shields.io/twitter/follow/nictelopez_?logo=twitter&style=for-the-badge" alt="nictelopez_" /></a> </p>
-
 - 🔭 I’m currently working on **the 100Devs Agency**
 
 - 🌱 I’m currently learning **JavaScript, Azure, PowerBI**

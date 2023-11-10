@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **the 100Devs Agency**
 
-- 🌱 I’m currently learning **JavaScript, Azure, PowerBI**
+- 🌱 I’m currently learning **JavaScript, Azure, PowerBI (and German too)**
 
 - 👯 I’m looking to collaborate on **the creation of web pages using APIs**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nictelopez&label=Profile%20views&color=ff9300&style=flat" alt="nictelopez" /> </p>
 
-- 🔭 I’m currently working on **the 100Devs Agency**
+- 🔭 I’m currently working on **the 100Devs Agency and on my Creative Studio **
 
 - 🌱 I’m currently learning **JavaScript, Azure, PowerBI (and German too)**
 

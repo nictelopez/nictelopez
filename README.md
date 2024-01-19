@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **the 100Devs Agency and on my Creative Studio where I create landing pages for business and my video production company**
 
 - 🌱 I’m currently learning **JavaScript, Azure, PowerBI (and German too)**
-
+:)
 - 👯 I’m looking to collaborate on **the creation of web pages using APIs, and landing pages**
 
 - 👨‍💻 All of my projects are available at [nictelopez.netlify.app](nictelopez.netlify.app)
